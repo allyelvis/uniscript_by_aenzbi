@@ -1,0 +1,11 @@
+{
+  "name": "uniscript",
+  "version": "1.0.0",
+  "description": "Cross-platform language for multi-platform deployment by Aenzbi.",
+  "main": "main.js",
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT",
+  "bin": {
+    "uniscript": "./main.js"
+  }
+}

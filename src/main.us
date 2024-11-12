@@ -1,0 +1,5 @@
+// Core file for UniScript v1.0.0 by Ally Elvis Nzeyimana
+print("Welcome to UniScript 1.0.0!")
+function enhance() {
+    print("Enhancing UniScript features automatically...")
+}
